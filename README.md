@@ -66,8 +66,10 @@ c. Administrator
 
 
 #### a.) Customer:
-For testing purposes you can give as:													
-User Name: Adi																
+For testing purposes you can give as:	
+
+User Name: Adi	
+
 Password:  yaji
 
 Customer can,
@@ -79,8 +81,10 @@ Customer can,
 6.> Change User Credentials 
 5.> Log out
 
-#### b.) Banker:															
-User Name: banker															
+#### b.) Banker:
+
+User Name: banker
+
 Password:  urvi																
 
 Banker can,
