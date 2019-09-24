@@ -109,7 +109,7 @@ Admin can,
 1.> View all the complaints registered.
 2.> Able to change the status of the complaints.
 
-This project was made in collbration with Urvi Sheth and Aditya Yaji as the submission for the subject Enterprise Web Application Here in folder attached code for the system and a dummy sql file for testing purposes.
+This project was made in collbration with UrviSheth and @AdityaYaji as the submission for the subject Enterprise Web Application Here in folder attached code for the system and a dummy sql file for testing purposes.
 
 
 
