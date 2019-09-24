@@ -42,7 +42,7 @@ n.) Carousel feature
 3.)Instructions on show how to deploy and run the bank project:
 
 	1. Start tomcat server
-	2. Copy "BankingSystem1" folder to the tomcat webapp folder.
+	2. Copy "BankingSystem" Project folder to the tomcat webapp folder.
 	3. Start the MySQL database with database name as bns. The username is root and password is root to connect to the MySQL DB.
 	4. Start the MongoDB server with mongo.exe and mongod.exe with database name as complaint and collection name as complaintStored.
 	5. In order to start the application open the browser and type http://localhost/BankingSystem1/ or http://localhost/BankingSystem1/Home.
