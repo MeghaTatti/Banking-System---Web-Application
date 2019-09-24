@@ -7,7 +7,8 @@ The Customer will be allowed to perform basic actions like creating an account, 
 Administrator is a secondary role for the system, takes care of the functionality problem registered by other two users.
 
 ### The following technologies were used to build the project:
-Frontend: HTML, CSS, Bootstrap, JavaScript, Ajax.											
+Frontend: HTML, CSS, Bootstrap, JavaScript, Ajax.	
+
 Backend: JSP, Java Beans, Servlets, MySQL, MongoDB, Python (Twitter API), MongoDB Server: Tomcat Apache Server.
 
 ______________________________________________________________________________
