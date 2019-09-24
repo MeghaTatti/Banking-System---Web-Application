@@ -69,6 +69,7 @@ c. Administrator
 For testing purposes you can give as:
 User Name: Adi
 Password:  yaji
+
 Customer can,
 1.> Funds Transfer Within Bank 
 2.> Funds Transfer to Other Bank 
@@ -81,6 +82,7 @@ Customer can,
 #### b.) Banker:
 User Name: banker
 Password:  urvi
+
 Banker can,
 1.> Create New customer 
 2.> Update a Customer 
@@ -96,6 +98,7 @@ Banker can,
 ##### c.) Administrator:
 User Name: admin
 Password:  admin
+
 Admin can,
 1.> View all the complaints registered.
 2.> Able to change the status of the complaints.
